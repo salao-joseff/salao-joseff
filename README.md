@@ -6,16 +6,12 @@
 - **Phone:** +63 906 965 7046, +632 8294 6413
 
 ## Education
-- **Bachelor of Science in Computer Sciences**
-  - *De La Salle University, Malate, Manila*
-  - 2025-2031 (*Expected*)
-  - Major in Computer Systems Engineering
 
-- **Secondary Education**
+- **Primary Education**
   - *La Consolacion College Valenzuela, Malinta Valenzuela*
   - 2011-2019
 
-- **Primary Education**
+- **Secondary Education**
   - *De La Salle Araneta University, Potrero, Malabon*
   - 2019-2025
 
@@ -23,8 +19,6 @@
 ### Programming Languages
 - Java
 - JavaScript
-- C#
-- Dart
 - Kotlin
 - Python
 - C++
