@@ -1,9 +1,8 @@
-# Joseff Gabriel Salao - Computer Scientist
+# Joseff Gabriel Salao
 
 ## Contact Information
 - **Location:** Malabon, Philippines
 - **Email:** joseff.salao@dlsau.edu.ph, salao.joseff@gmail.com
-- **Phone:** +63 906 965 7046, +632 8294 6413
 
 ## Education
 
