@@ -34,7 +34,7 @@
 ## Introduction
 I am an aspiring Computer Scientist based in Malabon, Philippines, with a strong foundation in programming and a passion for problem-solving. My education and skills in Computer Science have prepared me to take on innovative challenges in the field. I am dedicated to advancing technology to create a better future.
 
-## Why Computer Science
+## Why I want to Pursue Computer Science
 My journey in Computer Science began with a fascination for electronics and artificial intelligence. I was drawn to the real-time decision-making capabilities of AI and its practical applications. While exploring various computer-related fields, I found Computer Science to be the perfect fit for my aspirations. It offers a versatile knowledge base and the opportunity to delve into the dynamic interplay between electronics and AI. I believe that Computer Science is the ideal platform for my intellectual and professional pursuits, allowing me to contribute to the future advancements in technology.
 
 ## About This Repository
