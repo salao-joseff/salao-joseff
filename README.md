@@ -38,5 +38,5 @@ I am an aspiring Computer Scientist based in Malabon, Philippines, with a strong
 My journey in Computer Science began with a fascination for electronics and artificial intelligence. I was drawn to the real-time decision-making capabilities of AI and its practical applications. While exploring various computer-related fields, I found Computer Science to be the perfect fit for my aspirations. It offers a versatile knowledge base and the opportunity to delve into the dynamic interplay between electronics and AI. I believe that Computer Science is the ideal platform for my intellectual and professional pursuits, allowing me to contribute to the future advancements in technology.
 
 ## About This Repository
-This repository contains information about my education, skills, and aspirations as a Computer Scientist. You can learn more about my background and interests by exploring this README file. Feel free to reach out to me via email or LinkedIn for collaborations, discussions, or any inquiries.
+This repository contains information about my education, skills, and aspirations, as well as coding that I do for Academic and Personal Uses. You can learn more about my background and interests by exploring this README file. Feel free to reach out to me via email or LinkedIn for collaborations, discussions, or any inquiries.
 
